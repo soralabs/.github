@@ -1,5 +1,5 @@
 # Sora Labs 🌌  
-**"Where the sky is just the beginning."**
+**Where the sky is just the beginning.**
 
 Welcome to **Sora Labs**, where open-source innovation meets decentralization. We build tools and frameworks at the intersection of AI and crypto, empowering developers and communities to create in a decentralized world.
 
