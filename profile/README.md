@@ -40,7 +40,6 @@ We’re building the future of decentralized AI in the crypto space and beyond. 
 Stay updated and engage with us:  
 - [Website](#)  
 - [Twitter](#)  
-- [Discord](#)  
 
 ---
 
