@@ -13,7 +13,8 @@ To pioneer open-source AI solutions that align with the principles of decentrali
 ## 🛠️ Our Projects  
 
 ### [Zen - An Advanced Conversational LLM Framework](https://github.com/soralabs/zen)  
-Zen is a modular, open-source conversational AI framework designed for the decentralized era. It bridges the power of advanced AI with the flexibility of systems that align with crypto's decentralized philosophy.  
+Zen is a modular, open-source conversational AI framework designed for the decentralized era. It bridges the power of advanced AI with the flexibility of systems.  
+
 Key features:  
 - Plugin-based architecture with hot-swappable components  
 - Multi-provider LLM support, including OpenAI and custom integrations  
