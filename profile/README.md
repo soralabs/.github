@@ -24,7 +24,7 @@ Key features:
 Explore Zen in its [repository](https://github.com/soralabs/zen).
 
 ### [Toolkit - LLM Function Calling Framework](https://github.com/soralabs/toolkit)
-Toolkit is a Go package that simplifies building and managing LLM function calling tools. It provides a clean interface for implementing AI-compatible functions and organizing them into toolkits.
+Toolkit is a Go AND Rust package that simplifies building and managing LLM function calling tools. It provides a clean interface for implementing AI-compatible functions and organizing them into toolkits.
 
 Key features:
 - Abstract Tool interface for implementing LLM-compatible functions
