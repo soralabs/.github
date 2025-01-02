@@ -28,7 +28,6 @@ Toolkit is a Go AND Rust package that simplifies building and managing LLM funct
 
 Key features:
 - Abstract Tool interface for implementing LLM-compatible functions
-- Default tool implementation with required metadata
 - Toolkit management for grouping related tools
 - Functional options pattern for configuration
 - JSON schema support for function parameters and returns
