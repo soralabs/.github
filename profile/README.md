@@ -52,6 +52,7 @@ We’re building the future of decentralized AI in the crypto space and beyond. 
 Stay updated and engage with us:  
 - [Website](https://soralabs.app/)  
 - [Twitter](https://x.com/labs_sora)  
+- [Discord](https://discord.gg/soralabs)
 
 ---
 
